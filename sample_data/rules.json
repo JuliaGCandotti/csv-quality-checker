@@ -1,0 +1,14 @@
+{
+  "required_columns": ["id", "name", "email", "signup_date", "plan"],
+  "not_empty": ["id", "name", "email"],
+  "unique": ["id", "email"],
+  "patterns": {
+    "email": "[^@\\s]+@[^@\\s]+\\.[^@\\s]+"
+  },
+  "dates": {
+    "signup_date": "%Y-%m-%d"
+  },
+  "allowed_values": {
+    "plan": ["free", "basic", "premium"]
+  }
+}

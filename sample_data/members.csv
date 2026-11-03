@@ -1,0 +1,11 @@
+id,name,email,signup_date,plan
+1,Ana Silva,ana.silva@example.com,2025-01-15,premium
+2,Bruno Costa,bruno.costa@example.com,2025-02-03,basic
+3,Carla Souza,carla.souza@example,2025-02-20,free
+4,,diego.lima@example.com,2025-03-11,basic
+5,Elisa Rocha,elisa.rocha@example.com,2025-13-45,premium
+6,Felipe Alves,ana.silva@example.com,2025-04-02,free
+6,Gabi Nunes,gabi.nunes@example.com,2025-04-18,gold
+8,Hugo Pires,hugo.pires@example.com,2025-05-09,basic
+9,Iris Melo,iris.melo@example.com,2025-05-30,premium
+10,Joana Reis,joana.reis@example.com,2025-06-14,free
